@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "i love youを君に",
+  "base_artist": "BOY MEETS HARU",
+  "createdAt": "2025-12-18T10:10:13.547275Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "i love youを君に",
+      "artist": "BOY MEETS HARU",
+      "has_synced": false,
+      "path": "select/pl_01_i_love_youを君に_BOY_MEETS_HARU.txt"
+    }
+  ]
+}
